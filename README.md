@@ -5,4 +5,4 @@
 - Hilt for Dependency Injection
 - Room for Storing data in the database
 - Parsing local complex JSON
-- Uit Tests
+- Unit Tests
